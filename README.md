@@ -11,4 +11,4 @@ The Order Delivery Date Extension gives your customers possibility to choose the
 
 <b>Installation:</b>
 
-This module is intended to be installed using composer [ composer require "sr/module-delivery-date:*" ]
+This module is intended to be installed using composer [ composer require "xinapps/module-delivery-date:*" ]
