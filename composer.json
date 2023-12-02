@@ -1,5 +1,5 @@
 {
-    "name": "sr/module-delivery-date",
+    "name": "xinapps/module-delivery-date",
     "description": "Order Delivery date extension will allow customer to choose preferable delivery date for order.",
     "require": {
         "php": "~7.3.0||~7.4.0|~8.1.2",
